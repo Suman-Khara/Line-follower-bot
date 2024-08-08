@@ -19,3 +19,4 @@ The bot follows a black line. The objective is to start from one point and reach
 - [Aniket Sarkar](https://github.com/AniketSarkar123)
 - [Ayush Mondal](https://github.com/blackdeath1346)
 - [Suman Khara](https://github.com/Suman-Khara)
+- [Sutanjoy Pal](https://github.com/SutanjoyPal)
