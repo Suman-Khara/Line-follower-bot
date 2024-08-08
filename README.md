@@ -3,10 +3,10 @@ Arduino Code for PID Controlled Line follower bot
 
 
 ## Introduction
-This bot was created by me and four other guys for a Line following bot competition in Srijab
+This bot was created by me and four other guys for a Line following bot competition in Srijan
 
 
-## What does this bot do:
+## What does this bot do
 The bot follows a black line. The objective is to start from one point and reach till end as fast as possible.
 
 ## Details of implementation
