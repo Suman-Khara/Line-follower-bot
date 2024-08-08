@@ -3,7 +3,7 @@ Arduino Code for PID Controlled Line follower bot
 
 
 ## Introduction
-This bot was created by me and four other guys for a Line following bot competition in Srijan
+This bot was created by me and four other guys for a Line following bot competition (Homecoming Event) in Srijan.
 
 
 ## What does this bot do
